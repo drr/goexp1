@@ -1,4 +1,4 @@
-/* A little fiddline around with Go
+/* A little fiddling around with Go
  *
  * Install a couple different http handlers
  * Try some reflection
