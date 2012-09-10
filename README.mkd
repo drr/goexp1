@@ -1,0 +1,5 @@
+Experimenting with golang
+=====
+
+Play around a bit with the syntax and libraries of the go language.
+
